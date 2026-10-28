@@ -1,4 +1,4 @@
-<a href="https://level-bot.tech"><img src="https://level-bot.tech/assets/brand/banner.png" width="100%" alt="level. A Grok teammate that reads a pump.fun launch before you do."></a>
+<a href="https://level-bot.tech"><img src="https://level-bot.tech/assets/brand/banner.png" width="100%" alt="GrokLevel. A Grok teammate that reads a pump.fun launch before you do."></a>
 
 <div align="center">
 <a href="https://level-bot.tech"><img src="https://img.shields.io/badge/level-bot.tech-the%20desk-4FD1FF?style=for-the-badge&labelColor=07080B" alt="the desk"></a>
@@ -11,15 +11,16 @@
 
 <br>
 
-### 🫧 What level is
+### 🫧 What GrokLevel is
 
 ```toml
-[level]
+[grok_level]
 is = "a Grok teammate that reads a pump.fun launch before you do"
 reads = "the bonding curve, the creator wallet, the top holders, the market, and then X through Grok"
 answers = "counts and quotes in about ten seconds: posts, accounts, account ages, repeated text, the project's own account"
 never = "a price call, a score, a buy button, a signer, a stored address"
 costs = "about $0.10 of Grok per read, shown on every card"
+ca = "3fK54p5SzHiPKB9JqPw893i1FNU5Xahf1QQbt4iPpump"
 ```
 
 ### 🧰 Stack
@@ -57,6 +58,6 @@ costs = "about $0.10 of Grok per read, shown on every card"
 
 <br>
 
-<p align="center"><a href="https://github.com/LevelGrok/level"><img src="https://img.shields.io/badge/github.com%2FLevelGrok%2Flevel-open%20the%20repo-4FD1FF?style=for-the-badge&logo=github&logoColor=07080B&labelColor=07080B" alt="level repo"></a></p>
+<p align="center"><a href="https://github.com/LevelGrok/level"><img src="https://img.shields.io/badge/github.com%2FLevelGrok%2Flevel-open%20the%20repo-4FD1FF?style=for-the-badge&logo=github&logoColor=07080B&labelColor=07080B" alt="GrokLevel repo"></a></p>
 
 <p align="center"><sub>built in public · <a href="https://level-bot.tech">level-bot.tech</a> · <a href="https://x.com/level_grok">@level_grok</a> · <a href="https://github.com/LevelGrok/level">LevelGrok/level</a></sub></p>
