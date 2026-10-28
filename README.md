@@ -1,9 +1,9 @@
-<a href="https://levelbot.live"><img src="https://levelbot.netlify.app/assets/brand/banner.png" width="100%" alt="level. A Grok teammate that reads a pump.fun launch before you do."></a>
+<a href="https://level-bot.tech"><img src="https://level-bot.tech/assets/brand/banner.png" width="100%" alt="level. A Grok teammate that reads a pump.fun launch before you do."></a>
 
 <div align="center">
-<a href="https://levelbot.live"><img src="https://img.shields.io/badge/levelbot.live-the%20desk-4FD1FF?style=for-the-badge&labelColor=07080B" alt="the desk"></a>
+<a href="https://level-bot.tech"><img src="https://img.shields.io/badge/level--bot.tech-the%20desk-4FD1FF?style=for-the-badge&labelColor=07080B" alt="the desk"></a>
 <a href="https://github.com/LevelGrok/level"><img src="https://img.shields.io/badge/agent-source-07080B?style=for-the-badge&logo=github&logoColor=4FD1FF&labelColor=07080B" alt="source"></a>
-<a href="https://level.162-35-122-197.sslip.io/state.json"><img src="https://img.shields.io/badge/desk-live%20json-2EE59D?style=for-the-badge&labelColor=07080B" alt="live json"></a>
+<a href="https://api.level-bot.tech/state.json"><img src="https://img.shields.io/badge/desk-live%20json-2EE59D?style=for-the-badge&labelColor=07080B" alt="live json"></a>
 <img src="https://img.shields.io/github/followers/LevelGrok?style=for-the-badge&logo=github&logoColor=4FD1FF&color=07080B&labelColor=07080B&label=followers" alt="followers">
 <a href="https://github.com/LevelGrok/level/stargazers"><img src="https://img.shields.io/github/stars/LevelGrok/level?style=for-the-badge&logo=github&logoColor=4FD1FF&color=07080B&labelColor=07080B&label=stars" alt="stars"></a>
 </div>
@@ -60,4 +60,4 @@ mint = "posted here and on the project account on launch day"
 
 <p align="center"><a href="https://github.com/LevelGrok/level"><img src="https://img.shields.io/badge/github.com%2FLevelGrok%2Flevel-open%20the%20repo-4FD1FF?style=for-the-badge&logo=github&logoColor=07080B&labelColor=07080B" alt="level repo"></a></p>
 
-<p align="center"><sub>built in public · <a href="https://levelbot.live">levelbot.live</a> · <a href="https://github.com/LevelGrok/level">LevelGrok/level</a></sub></p>
+<p align="center"><sub>built in public · <a href="https://level-bot.tech">level-bot.tech</a> · <a href="https://github.com/LevelGrok/level">LevelGrok/level</a></sub></p>
